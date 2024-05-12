@@ -1,0 +1,67 @@
+body{
+    margin-right: 20px;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+
+.para{
+    background-color: rgb(239, 239, 239);
+    margin: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.details{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top:5px;
+    line-height:25px;
+    padding-bottom:20px;
+    border-bottom:1px solid rgb(173, 173, 173);
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.asci{
+    background-color: rgb(198, 219, 219);
+    margin: 30px;
+    padding: 40px;
+
+}
+.asc1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.container{
+  display: flex;
+  flex-direction:row;
+  text-align:center ;
+  padding: 10px;
+}
+.vision{
+background-color: azure;
+}
+.mission{
+    background-color: azure;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+}
+.facilities{
+    background-color: rgb(239, 239, 239);
+    margin: 30px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+}
